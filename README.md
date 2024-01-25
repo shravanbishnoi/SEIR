@@ -22,7 +22,7 @@ This course covers various aspects of search engines, information retrieval, and
 
 ## Projects
 
-1. Webpage Python Project (projects/project1/):
+1. Webpage Python Project (projects/Webpage Python Project/):
    Write a python program that takes a URL on the command line, fetches the page, and outputs (as clearly demarked sections)
     - Page Title (without any HTML tags)
     - Page Body (without any html tags)
