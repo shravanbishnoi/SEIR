@@ -1,5 +1,6 @@
 # Search Engine and Information Retrieval Course
-"Explore my Search Engine and Information Retrieval course repository! Dive into assignments reinforcing theory and projects applying practical skills. Contribute and collaborate to enhance this learning hub. 🚀 #InformationRetrieval #SearchEngine"
+Explore my Search Engine and Information Retrieval course repository! Dive into assignments reinforcing theory and projects applying practical skills. Contribute and collaborate to enhance this learning hub. 
+🚀 #InformationRetrieval #SearchEngine
 
 This repository is organized to showcase my work throughout the course, and it will be regularly updated with new assignments and projects.
 
