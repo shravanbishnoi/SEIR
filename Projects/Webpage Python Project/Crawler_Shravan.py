@@ -3,6 +3,7 @@ In this script, I am extracting text content from a web page without
 any HTML tags using request Library. I have not used any HTML
 parser here.
 
+
 Author: Shravan
 Date: 20-01-2024
 """
