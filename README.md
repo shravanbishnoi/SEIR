@@ -13,8 +13,23 @@ This repository is organized to showcase my work throughout the course, and it w
         - Text Transformation
         - Index Creation
         - User Interaction
-        - Ranking
         - Evaluation
+     - Crawls and feeds
+     - Processing text
+        - Tokenization
+        - Stop words
+        - Stemming
+        - POS tagging
+        - N-Grams
+        - Page Ranks
+     - Ranking and Indexes
+        - Inverted Indices
+        - Compression
+        - Encoding
+        - Skip Pointers
+        - Merging
+        - Map Reduce
+      - 
           
 ## Assignments:
     - Relevance Assessment
