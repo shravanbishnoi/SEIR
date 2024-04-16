@@ -45,6 +45,7 @@ This repository is organized to showcase my work throughout the course, and it w
           
 ## Assignments:
     - Relevance Assessment
+    - Position Paper on [Do you believe that LLMs will be better search experience than your current search engine and would they replace search engines?]
 
 ## About the Course
 
