@@ -12,6 +12,7 @@ This repository is organized to showcase my work throughout the course, and it w
         - Text Acquisition
         - Text Transformation
         - Index Creation
+        - Ranking
         - User Interaction
         - Evaluation
      - Crawls and feeds
@@ -29,7 +30,18 @@ This repository is organized to showcase my work throughout the course, and it w
         - Skip Pointers
         - Merging
         - Map Reduce
-      - 
+      - Queries and Interfaces
+      - MRS
+        - Scoring
+        - Term weighting
+        - Vector Space Model
+        - Document length normalisation
+       - Evalution
+        - Relevance
+        - Pooling
+        - Query logs
+        - Efficiency metrics
+        - Significance tests
           
 ## Assignments:
     - Relevance Assessment
