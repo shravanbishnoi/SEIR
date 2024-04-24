@@ -4,7 +4,7 @@ Explore my Search Engine and Information Retrieval course repository! Dive into 
 
 This repository is organized to showcase my work throughout the course, and it will be regularly updated with new assignments and projects.
 
-## Course Advisor: Dr. Amit Singhal (Computer Scientist, Founder Sitare University)
+## Course Advisor: Dr. Amit Singhal (Ex. SVP at Google Search, Founder Sitare University)
 
 ## Table of Contents
 In this course we will learn how do search engines work and retrieve user satisfiable information when queried.
