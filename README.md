@@ -57,8 +57,8 @@ In this course we will learn how do search engines work and retrieve user satisf
     
           
 ## Assignments:
-    - Relevance Assessment
-    - Position Paper on [Do you believe that LLMs will be better search experience than your current search engine and would they replace search engines?]
+- Relevance Assessment
+- Position Paper on [Do you believe that LLMs will be better search experience than your current search engine and would they replace search engines?]
 
 ## About the Course
 
