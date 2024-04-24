@@ -45,8 +45,8 @@ In this course we will learn how do search engines work and retrieve user satisf
  - Classification and Clusturing
     - Ontologies
     - Document classification
-          - Spam detection
-          - Sentiment analysis
+    -     Spam detection
+    -     Sentiment analysis
     - Clustering
           - Divisive Hierarchical Clustering
           - Agglomerative Hierarchical Clustering
