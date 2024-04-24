@@ -7,52 +7,52 @@ This repository is organized to showcase my work throughout the course, and it w
 ## Course Advisor: Dr. Amit Singhal (Computer Scientist, Founder Sitare University)
 
 ## Table of Contents
-- In this course we will learn how do search engines work and retrieve user satisfiable information when queried.
-    - Architecture of a Search Engine
-        - Text Acquisition
-        - Text Transformation
-        - Index Creation
-        - Ranking
-        - User Interaction
-        - Evaluation
-     - Crawls and feeds
-     - Processing text
-        - Tokenization
-        - Stop words
-        - Stemming
-        - POS tagging
-        - N-Grams
-        - Page Ranks
-     - Ranking and Indexes
-        - Inverted Indices
-        - Compression
-        - Encoding
-        - Skip Pointers
-        - Merging
-        - Map Reduce
-    - Queries and Interfaces
-        - MRS
-        - Scoring
-        - Term weighting
-        - Vector Space Model
-        - Document length normalisation
-     -  Evalution
-        - Relevance
-        - Pooling
-        - Query logs
-        - Efficiency metrics
-        - Significance tests
-     - Classification and Clusturing
-        - Ontologies
-        - Document classification
-              - Spam detection
-              - Sentiment analysis
-        - Clustering
-              - Divisive Hierarchical Clustering
-              - Agglomerative Hierarchical Clustering
-              - K-Means Clustering
-              - K-Nearest Neighbor Clustering
-        - Evaluating Clustering
+In this course we will learn how do search engines work and retrieve user satisfiable information when queried.
+- Architecture of a Search Engine
+    - Text Acquisition
+    - Text Transformation
+    - Index Creation
+    - Ranking
+    - User Interaction
+    - Evaluation
+- Crawls and feeds
+- Processing text
+    - Tokenization
+    - Stop words
+    - Stemming
+    - POS tagging
+    - N-Grams
+    - Page Ranks
+- Ranking and Indexes
+    - Inverted Indices
+    - Compression
+    - Encoding
+    - Skip Pointers
+    - Merging
+    - Map Reduce
+- Queries and Interfaces
+    - MRS
+    - Scoring
+    - Term weighting
+    - Vector Space Model
+    - Document length normalisation
+ -  Evalution
+    - Relevance
+    - Pooling
+    - Query logs
+    - Efficiency metrics
+    - Significance tests
+ - Classification and Clusturing
+    - Ontologies
+    - Document classification
+          - Spam detection
+          - Sentiment analysis
+    - Clustering
+          - Divisive Hierarchical Clustering
+          - Agglomerative Hierarchical Clustering
+          - K-Means Clustering
+          - K-Nearest Neighbor Clustering
+    - Evaluating Clustering
 
     
           
