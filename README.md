@@ -67,3 +67,5 @@ This course covers various aspects of search engines, information retrieval, and
     - Here s[i] is the ASCII for letter i in a word, use p = 53 and m = 2^64
     - Compute Simhash for the document.
     - Modify your program to take two URLs from the web on the command line, print how many bits are common in their simhashes.
+3. Compute pairwise cosine similarity
+    - build tf x idf weighted vectors for every document and compute pairwise cosine similarity
