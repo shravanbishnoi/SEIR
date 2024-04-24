@@ -48,10 +48,10 @@ In this course we will learn how do search engines work and retrieve user satisf
         - Spam detection
         - Sentiment analysis
     - Clustering
-          - Divisive Hierarchical Clustering
-          - Agglomerative Hierarchical Clustering
-          - K-Means Clustering
-          - K-Nearest Neighbor Clustering
+        - Divisive Hierarchical Clustering
+        - Agglomerative Hierarchical Clustering
+        - K-Means Clustering
+        - K-Nearest Neighbor Clustering
     - Evaluating Clustering
 
     
