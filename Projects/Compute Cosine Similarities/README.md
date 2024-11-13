@@ -20,4 +20,4 @@ This project is a Python script designed to compute pairwise similarity scores b
 ## Usage
 Run the script from the command line, providing the path to the document folder as an argument:
 ```bash
-python script.py /path/to/document_folder```
+python main.py /path/to/document_folder
